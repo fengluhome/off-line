@@ -1,0 +1,11 @@
+node_modules/
+views/dist
+views/dist/
+public/file/
+utils/logs/
+views/test.html
+bin/test.js
+.idea/
+vwd.webinfo
+.project
+.DS_Store
